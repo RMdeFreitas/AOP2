@@ -1,0 +1,49 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #0F0F0F;
+}
+a {
+    text-decoration: none;
+    color: yellow;
+}
+a:hover {
+    text-decoration: underline;
+}
+header {
+    color: white;
+}
+body {
+    margin-left: 17%;
+    margin-right: 17%;
+}
+.topo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: yellow
+}
+.links {
+    width: 100%;
+    margin: 0;
+}
+
+.justificar {
+    text-align: justify;
+    text-align-last: justify;
+}
+.branco {
+    color: white;
+}
+p {
+    color:yellow;
+}
+blockquote {
+    color:yellow
+}
+.flexionavel {
+    padding-top: 50px;
+    display: flex;
+}
+.padder {
+    padding-right: 25px;
+}
